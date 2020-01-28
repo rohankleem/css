@@ -1,2 +1,5 @@
+
+@media screen{
 .columnLayout .innerCell{background: #ddd;}
 .auto-cursor-target{background: #ff0000 !important;}
+}
